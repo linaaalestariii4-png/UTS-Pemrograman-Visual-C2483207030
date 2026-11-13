@@ -41,4 +41,4 @@ Aplikasi Kasir Kantin Kampus merupakan aplikasi desktop sederhana berbasis Java 
 ![Tampilan Aplikasi](Cuplikan%20layar%202026-11-13%20155814.png)
 ![Tampilan Aplikasi 2](Cuplikan%20layar%202026-11-13%20150814.png)
 ![Tampilan Aplikasi 3](Cuplikan%20layar%202026-11-13%20151443.png)
-![Tampilan Aplikasi 4](Cuplikan%20layar%202026-11-12%20151526.png)
+![Tampilan Aplikasi 4](Cuplikan%20layar%202026-11-13%20151526.png)
