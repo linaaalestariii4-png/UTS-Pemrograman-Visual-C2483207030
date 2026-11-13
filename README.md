@@ -34,3 +34,11 @@ Aplikasi Kasir Kantin Kampus merupakan aplikasi desktop sederhana berbasis Java 
 2. Jalankan aplikasi.
 3. Masukkan data pembelian.
 4. Klik tombol Hitung dan Bayar.
+
+## Dokumentasi Aplikasi
+### Tampilan Aplikasi
+
+![Tampilan Aplikasi](Cuplikan%20layar%202026-11-13%20155814.png)
+![Tampilan Aplikasi 2](Cuplikan%20layar%202026-11-13%20150814.png)
+![Tampilan Aplikasi 3](Cuplikan%20layar%202026-11-13%20151443.png)
+![Tampilan Aplikasi 4](Cuplikan%20layar%202026-11-12%20151526.png)
