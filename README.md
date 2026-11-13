@@ -5,7 +5,9 @@
 - Nama: Lina Lestari
 - NIM : C2483207030
 - Kelas : PTI 5
-- Mata Kuliah: Pemrograman VisualAplikasi Kasir Kantin Kampus
+- Mata Kuliah: Pemrograman Visual
+
+# Aplikasi Kasir Kantin Kampus
 
 ## Deskripsi
 
